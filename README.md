@@ -1,8 +1,8 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
 
-<h3>SAMEER SHARIFF M</h3>
-<h3>212224220085</h3>
+<h3>D MUKESH</h3>
+<h3>212224040204</h3>
 <h3>EX. NO 2</h3>
 <h3>DATE- 30-07-2026 </h3>
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
